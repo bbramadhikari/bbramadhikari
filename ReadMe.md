@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-About Me<br>Hello! I'm a MERN stack freelance developer currently diving deep into Data Structures and Algorithms (DSA).<br><br>Skills<br>Frontend: HTML, CSS, React.js<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Authentication: JWT, bcrypt<br>Ask Me About<br>CSS: Layouts, animations, responsive design<br>HTML: Semantics, accessibility, SEO best practices<br>React.js: Hooks, state management, component lifecycle
+About Me<br>Hello! I'm a MERN stack freelance developer.<br><br>Skills<br>Frontend: HTML, CSS, React.js<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Authentication: JWT, bcrypt<br>Ask Me About<br>CSS: Layouts, animations, responsive design<br>HTML: Semantics, accessibility, SEO best practices<br>React.js: Hooks, state management, component lifecycle
 
 ## 🌐 Socials:
 
