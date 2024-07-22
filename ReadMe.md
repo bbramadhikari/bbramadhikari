@@ -4,7 +4,7 @@ About Me<br>Hello! I'm a MERN stack freelance developer.<br><br>Skills<br>Fronte
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hunter.baburam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbramadhikari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baburam-adhikari-0b74811a0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tellbabu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@baburamadhikari4693)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hunter.baburam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbramadhikari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baburam-adhikari-0b74811a0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tellbabu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@baburamadhikari4693)
 
 # 💻 Tech Stack:
 
