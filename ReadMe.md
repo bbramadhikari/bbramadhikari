@@ -1,20 +1,85 @@
-# 💫 About Me:
+# 👋 Hi, I'm Baburam Adhikari
 
-About Me<br>Hello! I'm a MERN stack freelance developer.<br><br>Skills<br>Frontend: HTML, CSS, React.js<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>Authentication: JWT, bcrypt<br>Ask Me About<br>CSS: Layouts, animations, responsive design<br>HTML: Semantics, accessibility, SEO best practices<br>React.js: Hooks, state management, component lifecycle
+🎓 Master of Computer Science (Canada)  
+📊 Data Analyst | 🤖 AI/ML Researcher | 🌐 Full-Stack Developer  
+📍 Sault Ste. Marie, ON, Canada  
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hunter.baburam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bbramadhikari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baburam-adhikari-0b74811a0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tellbabu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@baburamadhikari4693)
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bbramadhikari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbramadhikari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a results-driven Computer Science graduate with strong experience in **Data Analysis, Machine Learning, AI research, and modern Web Development**. I enjoy transforming raw data into insights, building intelligent systems, and developing scalable software solutions.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=babuadhikari&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔍 What I Work On
+
+- 📊 **Data Analysis & Visualization** (Python, SQL, Power BI)
+- 🤖 **Machine Learning & Deep Learning** (NLP, Computer Vision, CNNs, Transformers)
+- 🧠 **AI Research & Explainable AI**
+- 🌐 **Web & Software Development** (React, Django, Node.js)
+- 🔐 **Secure Systems & Authentication**
+- ☁️ **Data-Driven Applications & APIs**
+
+---
+
+## 🧠 Core Skills
+
+### 📊 Data & Analytics
+- Python (NumPy, Pandas, Matplotlib, Seaborn)
+- SQL (PostgreSQL, MySQL)
+- Power BI, Excel
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Evaluation & Metrics
+
+### 🤖 AI / Machine Learning
+- Scikit-learn
+- TensorFlow, Keras, PyTorch
+- NLP (Transformers, BERT, XLM-RoBERTa)
+- Computer Vision (OpenCV, CNNs)
+- Recommendation Systems
+- Model Optimization & Evaluation
+
+### 🌐 Web & Software Development
+- Frontend: React.js, HTML, CSS, Tailwind
+- Backend: Django, Flask, Node.js, Express
+- REST APIs & Authentication (JWT, OAuth)
+- Database Design & Integration
+- Git, GitHub, Agile Workflow
+
+---
+
+## 🚀 Featured Projects
+
+- **GenAI-Based Recommendation System**  
+  Hybrid recommender system with explainable AI, evaluated using Precision@K, Recall@K, and Novelty metrics.
+
+- **Nepali Sentiment Analysis (Research)**  
+  Built multilingual NLP models for Devanagari & Romanized Nepali using transformers and hybrid deep learning architectures.
+
+- **Medical Image Classification (CNN)**  
+  Designed a lightweight CNN to classify Cataract, Diabetic Retinopathy, Glaucoma, and Normal retinal images.
+
+- **Bank Transaction EDA for Fraud Detection**  
+  Performed exploratory analysis and applied ML models (Random Forest, Isolation Forest) for fraud detection.
+
+- **Secure Password Manager with Biometric Authentication**  
+  Implemented encryption, Face ID, and MFA for secure credential storage.
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbramadhikari&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bbramadhikari&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbramadhikari&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baburam-adhikari-0b74811a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bbramadhikari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bbramadhikari)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/tellbabu)
+
+---
+
+⭐ **Open to opportunities in Data Analysis, AI/ML, and Software Development**
