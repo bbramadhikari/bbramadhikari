@@ -68,8 +68,6 @@ I am a results-driven Computer Science graduate with strong experience in **Data
 ## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbramadhikari&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bbramadhikari&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbramadhikari&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
