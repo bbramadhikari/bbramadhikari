@@ -63,13 +63,6 @@ I am a results-driven Computer Science graduate with strong experience in **Data
 - **Secure Password Manager with Biometric Authentication**  
   Implemented encryption, Face ID, and MFA for secure credential storage.
 
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbramadhikari&show_icons=true&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌐 Connect With Me
 
