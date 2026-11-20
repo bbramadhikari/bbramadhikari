@@ -1,76 +1,54 @@
-# 👋 Hi, I'm Baburam Adhikari
+# Baburam Adhikari
 
-🎓 Master of Computer Science (Canada)  
-📊 Data Analyst | 🤖 AI/ML Researcher | 🌐 Full-Stack Developer  
-📍 Sault Ste. Marie, ON, Canada  
+**Full-Stack Software Developer** · Python · Django · FastAPI · React · Next.js · TypeScript
 
-I am a results-driven Computer Science graduate with strong experience in **Data Analysis, Machine Learning, AI research, and modern Web Development**. I enjoy transforming raw data into insights, building intelligent systems, and developing scalable software solutions.
+I build web applications end to end, from PostgreSQL schemas and REST APIs to accessible React interfaces.
+2+ years shipping production features on Agile teams at Leapfrog Technology and APAR Nepal,
+with an additional focus on integrating machine-learning models into web apps.
 
----
+📍 Sault Ste. Marie, Ontario, Canada · Open to full-stack and backend roles in Canada
 
-## 🔍 What I Work On
-
-- 📊 **Data Analysis & Visualization** (Python, SQL, Power BI)
-- 🤖 **Machine Learning & Deep Learning** (NLP, Computer Vision, CNNs, Transformers)
-- 🧠 **AI Research & Explainable AI**
-- 🌐 **Web & Software Development** (React, Django, Node.js)
-- 🔐 **Secure Systems & Authentication**
-- ☁️ **Data-Driven Applications & APIs**
+[Portfolio](https://bbramadhikari.com) · [LinkedIn](https://linkedin.com/in/baburam-adhikari) · [Email](mailto:psnbabu5@gmail.com)
 
 ---
 
-## 🧠 Core Skills
+### Tech stack
 
-### 📊 Data & Analytics
-- Python (NumPy, Pandas, Matplotlib, Seaborn)
-- SQL (PostgreSQL, MySQL)
-- Power BI, Excel
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Evaluation & Metrics
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Backend** | Django, Django REST Framework, FastAPI, Flask, REST API design, authentication (JWT, OTP) |
+| **Frontend** | React, Next.js, Tailwind CSS, state management, accessibility |
+| **Databases** | PostgreSQL, MySQL, data modelling, query optimization |
+| **DevOps** | Docker, Git, GitHub, CI/CD, Microsoft Azure |
+| **ML integration** | PyTorch, TensorFlow, scikit-learn, LightGBM, SBERT, YOLOv8, OpenCV |
 
-### 🤖 AI / Machine Learning
-- Scikit-learn
-- TensorFlow, Keras, PyTorch
-- NLP (Transformers, BERT, XLM-RoBERTa)
-- Computer Vision (OpenCV, CNNs)
-- Recommendation Systems
-- Model Optimization & Evaluation
+### Featured projects
 
-### 🌐 Web & Software Development
-- Frontend: React.js, HTML, CSS, Tailwind
-- Backend: Django, Flask, Node.js, Express
-- REST APIs & Authentication (JWT, OAuth)
-- Database Design & Integration
-- Git, GitHub, Agile Workflow
+| Project | What it shows | Stack |
+|---|---|---|
+| [Secure Password Manager — API](https://github.com/bbramadhikari/secure-password-manager-api) | JWT auth, emailed one-time codes, face verification, vault API | Django REST Framework, PostgreSQL, OpenCV |
+| [Secure Password Manager — Web](https://github.com/bbramadhikari/secure-password-manager-web) | Auth flows, step-up verification before revealing passwords, in-browser face detection | Next.js, TypeScript, Material UI, face-api.js |
+| [Portfolio](https://github.com/bbramadhikari/portfolio) | Production Next.js site with case studies, SEO and accessibility work | Next.js, TypeScript |
+| [Software Job Market Analysis](https://github.com/bbramadhikari/software-job-market-analysis) | Cleaning and analysis of 10,000 job postings, Power BI dashboard | Python, Pandas, Power BI |
 
----
+### Experience
 
-## 🚀 Featured Projects
+**Full-Stack Developer** — APAR Nepal · Feb 2024 – Nov 2024<br>
+DRF APIs for auth and CRUD · end-to-end features on Next.js + Django + PostgreSQL · schema design and query optimization · code reviews and mentoring
 
-- **GenAI-Based Recommendation System**  
-  Hybrid recommender system with explainable AI, evaluated using Precision@K, Recall@K, and Novelty metrics.
+**Front-End Web Developer** — Leapfrog Technology · Sep 2022 – Dec 2023<br>
+Production features in Next.js, React, TypeScript and Tailwind · reusable API-connected components · accessibility and PR reviews
 
-- **Nepali Sentiment Analysis (Research)**  
-  Built multilingual NLP models for Devanagari & Romanized Nepali using transformers and hybrid deep learning architectures.
+### Education
 
-- **Medical Image Classification (CNN)**  
-  Designed a lightweight CNN to classify Cataract, Diabetic Retinopathy, Glaucoma, and Normal retinal images.
+**M.Sc. Computer Science** — Algoma University, Canada · 2025 – 2026
 
-- **Bank Transaction EDA for Fraud Detection**  
-  Performed exploratory analysis and applied ML models (Random Forest, Isolation Forest) for fraud detection.
+### Publications
 
-- **Secure Password Manager with Biometric Authentication**  
-  Implemented encryption, Face ID, and MFA for secure credential storage.
+- *GenAI-Based Recommendation System with Trust-Aware Learning-to-Rank* — ICAIII 2026
+- *Lightweight CNN for Multi-Class Classification of Retinal Fundus Images* — SERA 2026
 
+### Certifications
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baburam-adhikari-0b74811a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bbramadhikari)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bbramadhikari)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/tellbabu)
-
----
-
-⭐ **Open to opportunities in Data Analysis, AI/ML, and Software Development**
+Microsoft Azure Machine Learning Fundamentals · IBM Generative AI: Prompt Engineering · Career Essentials in System Administration (Microsoft)
