@@ -14,7 +14,7 @@ with an additional focus on integrating machine-learning models into web apps.
 
 ### Tech stack
 
-| | |
+| Area | Skills |
 |---|---|
 | **Languages** | Python, TypeScript, JavaScript, SQL |
 | **Backend** | Django, Django REST Framework, FastAPI, Flask, REST API design, authentication (JWT, OTP) |
