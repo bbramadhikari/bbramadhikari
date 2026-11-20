@@ -6,7 +6,7 @@ I build web applications end to end, from PostgreSQL schemas and REST APIs to ac
 2+ years shipping production features on Agile teams at Leapfrog Technology and APAR Nepal,
 with an additional focus on integrating machine-learning models into web apps.
 
-📍 Sault Ste. Marie, Ontario, Canada · Open to full-stack and backend roles in Canada
+📍 Edmonton, Alberta, Canada · Open to full-stack and backend roles in Canada
 
 [Portfolio](https://bbramadhikari.com) · [LinkedIn](https://linkedin.com/in/baburam-adhikari) · [Email](mailto:psnbabu5@gmail.com)
 
